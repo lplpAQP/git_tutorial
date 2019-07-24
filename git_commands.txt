@@ -20,3 +20,9 @@ git checkout - b branchname
 
 #check if any changes or get from the changes to another
 git pull
+
+#Sources
+
+https://www.freecodecamp.org/news/git-commands/
+https://www.youtube.com/watch?v=XpvA00MRZ0o&feature=youtu.be
+https://help.github.com/en/articles/set-up-git
