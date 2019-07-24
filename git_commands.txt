@@ -1,0 +1,22 @@
+#Initialize repository: select folder as Master
+git init
+
+#Track changes in file (. track all changes in all files inside the init file)
+git add . 
+
+#Commit the changes in the files (save the changes)
+git commit -m 'commet'
+
+#Push the changes in the files into a remote repository (if the first time then is a little bit different)
+git push
+
+#adding branches
+git branches branchName
+
+#switching from one branch to anothe
+git checkout branchname
+
+git checkout - b branchname
+
+#check if any changes or get from the changes to another
+git pull
